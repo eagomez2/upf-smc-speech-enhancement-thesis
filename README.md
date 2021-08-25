@@ -182,10 +182,10 @@ If this work turns out to be useful in your own research, you can cite it using 
 
 ```bibtex
 @mastersthesis{GomezSMCSE2021,
-  author       = {Esteban Gómez}, 
-  title = {{Deep Noise Suppression for Real Time Speech Enhancement in a Single Channel Wide Band Scenario}},
-  school       = {Universitat Pompeu Fabra},
-  year         = 2021,
+  author = {Esteban Gómez}, 
+  title  = {{Deep Noise Suppression for Real Time Speech Enhancement in a Single Channel Wide Band Scenario}},
+  school = {Universitat Pompeu Fabra},
+  year   = 2021,
 }
 ```
 
