@@ -177,6 +177,18 @@ This will display a URL that can be clicked or copy/pasted depending on your ter
 # Acknowledgements
 I would like to express my depeest gratitude to [Andrés Pérez, PhD](https://scholar.google.es/citations?user=e-s-24YAAAAJ&hl=es) and [Pritish Chandna, PhD](https://scholar.google.com/citations?user=q4lZQbkAAAAJ&hl=en), the supervisor and co-supervisor of this project, respectively. Additionally, I want to thank [Voicemod](https://www.voicemod.net/) for providing the necessary hardware to carry out the experiments needed throghout the project. Last but not least, I would like to thank [Microsoft Corporation](https://www.microsoft.com) for allowing me to use their proprietary tools that are provided to researchers as part of their [Deep Noise Suppression Challenge](https://github.com/microsoft/DNS-Challenge).
 
+# Cite
+If this work turns out to be useful in your own research, you can cite it using this BibTeX code:
+
+```bibtex
+@mastersthesis{GomezSMCSE2021,
+  author       = {Esteban Gómez}, 
+  title = {{Deep Noise Suppression for Real Time Speech Enhancement in a Single Channel Wide Band Scenario}},
+  school       = {Universitat Pompeu Fabra},
+  year         = 2021,
+}
+```
+
 # License
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
