@@ -94,7 +94,7 @@ After a set of predictions is computed, these can be evaluating using some of al
 ```sh
 python score.py <reference_dir> <estimates_dir>
 ```
-As an example, let's asume the prediction of `dataset/example_dataset` are store in `predicted/example_predictions`. Then, the command would be:
+As an example, let's asume the prediction of `dataset/example_dataset` are stored in `predicted/example_predictions`. Then, the command would be:
 
 ```sh
 python score.py dataset/example_dataset/clean_speech predicted/example_predictions
